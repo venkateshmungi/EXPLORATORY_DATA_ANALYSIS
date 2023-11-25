@@ -25,6 +25,7 @@ Practice with Datasets: Apply your knowledge using the provided datasets. Challe
 Contribute: Feel free to contribute by adding your own EDA notebooks, suggesting improvements, or submitting new datasets.
 
 **Getting Started**
+
 No prior EDA experience is required! If you're new to EDA, start with the beginner-friendly notebooks and gradually progress to more advanced topics. If you're already familiar with EDA, jump straight into the projects to put your skills to the test.
 
 Ready to embark on your EDA journey? Let's explore the fascinating world of data together! 🚀
