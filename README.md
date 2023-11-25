@@ -17,10 +17,7 @@ Documentation: Access comprehensive documentation providing explanations, code s
 Projects: Undertake EDA projects to apply your knowledge in real-world scenarios. Projects range from basic explorations to more advanced analyses.
 
 **How to Use**
-Clone the Repository: Get started by cloning this repository to your local machine.
 
-Copy code
-git clone https://github.com/yourusername/EDA-Learning-Repository.git
 Explore Notebooks: Dive into the Jupyter notebooks to learn EDA techniques step by step.
 
 Practice with Datasets: Apply your knowledge using the provided datasets. Challenge yourself with different scenarios to enhance your skills.
