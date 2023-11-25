@@ -1,4 +1,7 @@
 **Exploratory Data Analysis (EDA) Learning Repository**
+
+<img src="https://onpassive.com/blog/wp-content/uploads/2021/01/AI-Insideimage.gif">
+
 Welcome to the Exploratory Data Analysis (EDA) Learning Repository! 📊🔍
 
 **About**
